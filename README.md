@@ -11,3 +11,4 @@
 git -branch dev 命令创建分支 dev是创建的分支名称
 git checkout dev 命令是选择分支
 git branch 命令是查看所有分之，*标识当前所在的分支
+Creating a new branch is quick AND simple.
